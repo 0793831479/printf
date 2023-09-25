@@ -6,6 +6,7 @@
  * @printed: the printed characters
  * @format: the format specifier
  * Return: printed charcaters
+ * Return
  */
 
 int selector(const char *format, va_list args, int printed)
