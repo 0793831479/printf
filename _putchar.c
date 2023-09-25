@@ -4,6 +4,7 @@
  * _putchar - prints/writes character
  * @character: The character to print
  * Return: 1, success, -1 error
+ * Return
  */
 
 int _putchar(char character)
