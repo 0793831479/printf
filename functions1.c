@@ -11,6 +11,7 @@
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Number of chars printed.
+ * Return
  */
 int print_unsigned(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
